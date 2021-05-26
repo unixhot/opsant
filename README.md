@@ -11,8 +11,8 @@ OpsAnt是全开源的云原生运维平台，致力于为全国数百万小微�
 - 版本概览：v1.0.0
 
 <p align="center">
-    <a href="http://www.opsant.com/">
-        <img width="600" src="https://www.opsany.com/images/opsant.png">
+    <a href="http://www.opsany.com/">
+        <img width="800" src="https://www.opsany.com/images/opsant.png">
     </a>
 </p>
 
