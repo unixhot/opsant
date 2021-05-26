@@ -62,14 +62,13 @@ OpsAnt是全开源的云原生运维平台，致力于为全国数百万小微�
 2. 克隆项目代码
 
 ```
-[root@linux-node1 ~]# cd /opt
-[root@linux-node1 opt]# git clone https://github.com/unixhot/opsant.git
+[root@linux-node1 ~]# git clone https://github.com/unixhot/opsant.git
 ```
 
 3. 修改配置文件并执行安装
 
 ```
-[root@linux-node1 opt]# cd opsant/
+[root@linux-node1 ~]# cd opsant/
 [root@linux-node1 opsant]# cp install.config.example install.config
 [root@linux-node1 opsant]# vim install.config
 LOCAL_IP="192.168.56.11"
