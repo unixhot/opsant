@@ -16,6 +16,11 @@ OpsAnt是全开源的云原生运维平台，致力于为全国数百万小微�
     </a>
 </p>
 
+- 微信交流群： 添加微信后，回复OpsAnt，即可加群。
+
+> 纯技术交流，非技术话题一键踢出，零容忍。
+
+<img src="https://www.opsany.com/images/opsant-weixin.png">
 
 ## 使用Docker部署OpsAnt
 
